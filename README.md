@@ -16,41 +16,41 @@ There are two committed files in the repository.
 
 ### Dataset Summary.
 There are 36 columns and 1470 rows in the dataset. The columns are;
-- Age: Age of employee.
-- Attrition: Did an employee leave the company or not?
-- BusinessTravel: Do the employee travel for work purposes?
-- DailyRate:
-- Department: Department employee works.
-- DistanceFromHome: Distance of workplace from employee's home.
-- Education: Level of education of employee.
-- EducationField: Field of study of employee.
-- EmployeeCount: Number of employee with this employee number.
-- EmployeeNumber: ID number of employee.
-- EnvironmentSatisfaction: Environment satisfaction of employee.
-- Gender: Gender of employee.
-- HourlyRate:
-- JobInvolvement: How involved is the employee with his/her work?
-- JobLevel: Level of employee.
-- JobRole: Employee's job role
-- JobSatisfaction: Job satisfaction level.
-- MaritalStatus: Employee's marital status.
-- MonthlyIncome: Employee's monthly income.
-- MonthlyRate
-- NumCompaniesWorked: Number of companies employee has worked.
-- Over18: Is the employee over 18 years of age?
-- OverTime: Does the employee work overtime?
-- PercentSalaryHike: Percentage of salary hike.
-- PerformanceRating: Performance rating of employee.
-- RelationshipSatisfaction: Employee's relationship satisfaction with significant other.
-- StandardHours: Working hours in a week.
-- StockOptionLevel: Employee stock option.
-- TotalWorkingYears: Total number of years an employee has worked.
-- TrainingTimesLastYear: Hours spent on training last year.
-- WorkLifeBalance: Level of work life balance.
-- YearsAtCompany: Number of years at company.
-- YearsInCurrentRole: Number of years in current role.
-- YearsSinceLastPromotion: Number of years since last promotion.
-- YearsWithCurrManager: Number of years with current manager.
+- **Age**: Age of employee.
+- **Attrition**: Did an employee leave the company or not?
+- **BusinessTravel**: Do the employee travel for work purposes?
+- **DailyRate**:
+- **Department**: Department employee works.
+- **DistanceFromHome**: Distance of workplace from employee's home.
+- **Education**: Level of education of employee.
+- **EducationField**: Field of study of employee.
+- **EmployeeCount**: Number of employee with this employee number.
+- **EmployeeNumber**: ID number of employee.
+- **EnvironmentSatisfactio**n: Environment satisfaction of employee.
+- **Gender**: Gender of employee.
+- **HourlyRate**:
+- **JobInvolvement**: How involved is the employee with his/her work?
+- **JobLevel: Level of employee**.
+- **JobRole**: Employee's job role
+- **JobSatisfaction**: Job satisfaction level.
+- **MaritalStatus**: Employee's marital status.
+- **MonthlyIncome**: Employee's monthly income.
+- **MonthlyRate**
+- **NumCompaniesWorked**: Number of companies employee has worked.
+- **Over18**: Is the employee over 18 years of age?
+- **OverTime**: Does the employee work overtime?
+- **PercentSalaryHike**: Percentage of salary hike.
+- **PerformanceRating**: Performance rating of employee.
+- **RelationshipSatisfaction**: Employee's relationship satisfaction with significant other.
+- **StandardHours**: Working hours in a week.
+- **StockOptionLevel**: Employee stock option.
+- **TotalWorkingYears**: Total number of years an employee has worked.
+- **TrainingTimesLastYear**: Hours spent on training last year.
+- **WorkLifeBalance**: Level of work life balance.
+- **YearsAtCompany**: Number of years at company.
+- **YearsInCurrentRole**: Number of years in current role.
+- **YearsSinceLastPromotion**: Number of years since last promotion.
+- **YearsWithCurrManager**: Number of years with current manager.
 
 ## factors_affecting_attrition.ipynb
 This is the notebook used to carry out the analysis. There are 5 sections in the notebook.
