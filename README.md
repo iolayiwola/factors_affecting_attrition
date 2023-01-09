@@ -1,3 +1,5 @@
+**NOTE: The table of contents link in the notebook only works when the notebook is opened with an IDE.**
+
 # Factors Affecting Attrition
 Attrition is the departure of employees from the organization for any reason (voluntary or involuntary), including resignation, termination, death or retirement. Many factors can lead to attrition, this may include, a better offer from another company, natural disasters, relocation of employees etc.
 
